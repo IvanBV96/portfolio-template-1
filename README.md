@@ -1,6 +1,6 @@
 # Portfolio Template 1
 
-##Samles:
+## Samples:
 ![image](https://github.com/user-attachments/assets/fadb4a7f-87cb-4984-94d2-477fec485d95)
 ![image](https://github.com/user-attachments/assets/c2818aef-8828-4d3c-9ea0-be1155bc397c)
 ![image](https://github.com/user-attachments/assets/733c183f-4bd5-41f7-ba68-3affa0abc1ac)
@@ -25,9 +25,9 @@ To get a copy of this project running on your local machine, follow these steps:
    npm start
 ---
 ## Built With
-Next.js - The React framework for production
-TypeScript - A typed superset of JavaScript
-Tailwind CSS - A utility-first CSS framework
+Next.js - The React framework for production__
+TypeScript - A typed superset of JavaScript__
+Tailwind CSS - A utility-first CSS framework__
 ---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
