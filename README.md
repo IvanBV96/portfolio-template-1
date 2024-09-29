@@ -25,9 +25,10 @@ To get a copy of this project running on your local machine, follow these steps:
    npm start
 ---
 ## Built With
-Next.js - The React framework for production__
-TypeScript - A typed superset of JavaScript__
-Tailwind CSS - A utility-first CSS framework__
+Next.js - The React framework for production  
+TypeScript - A typed superset of JavaScript  
+Tailwind CSS - A utility-first CSS framework
+
 ---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
